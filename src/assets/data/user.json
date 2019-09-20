@@ -1,0 +1,30 @@
+[
+    {
+        "firstName":"Jaaee",
+        "lastName":"Joshi",
+        "userName":"jaaees",
+        "city":"Nagpur",
+        "department":"Ctech"
+    },
+    {
+        "firstName":"Ruchika",
+        "lastName":"Patil",
+        "userName":"ruchiP",
+        "city":"Dubai",
+        "department":"ETC"
+    },
+    {
+        "firstName":"Rohit",
+        "lastName":"Pande",
+        "userName":"rohitP",
+        "city":"Mumbai",
+        "department":"Civil"
+    },
+    {
+        "firstName":"Atharva",
+        "lastName":"Kale",
+        "userName":"atharvaK",
+        "city":"Banglore",
+        "department":"IT"
+    }
+]

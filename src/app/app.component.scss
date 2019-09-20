@@ -1,0 +1,67 @@
+.ml-4{
+    margin-left:4em;
+    cursor:pointer;
+    text-decoration:none;
+    color:white;
+}
+
+.ml-2{
+    margin-left:2em;
+    cursor:pointer;
+    text-decoration:none;
+    color:white;
+} 
+
+.app-container{
+    min-height: 523px;
+} 
+
+/*effect-hover*/
+
+a:hover {
+    background-color: #ccc;
+  }
+
+/*footer */
+.footer {
+    background-color: gray;
+    margin-top: 15px; 
+    .spacer {
+        flex: 1 1 auto;
+    }
+
+    .separator {
+        padding: 0.5em;
+    }
+
+    .mat-toolbar {
+        background-color: gray;
+        color: white;
+        font-size: 14px;
+        padding: 0px;
+    }
+
+    .pt-link{
+        color: white;
+        font-size: 15px;
+    }
+    
+    .pt-link:hover{
+        color:yellow;
+    }
+
+    .footer-content
+    {
+        float:right;
+        font-size: 12px;
+        padding: 0 50%;
+    }
+}
+
+/* Responsive */
+@media only screen and (max-width: 768px) {
+    ::ng-deep.mat-toolbar-row, .mat-toolbar-single-row {
+        padding: 0 6px !important;
+        font-size: 10px !important;   
+    }
+} 
